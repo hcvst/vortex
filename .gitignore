@@ -1,0 +1,7 @@
+*.db
+.direnv
+.envrc
+.pytest_cache
+.venv
+.vscode
+__pycache__
